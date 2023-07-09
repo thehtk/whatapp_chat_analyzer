@@ -1,7 +1,9 @@
-urlextract
-wordcloud
-collections
 re
+urlextract==1.8.0
+wordcloud==1.8.2.2
+collection==0.1.6
+emoji==2.6.0
+streamlit==1.16.0
+matplotlib 
 seaborn
-matplotlib.pyplot
-streamlit
+numpy
