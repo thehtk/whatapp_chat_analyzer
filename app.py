@@ -104,6 +104,7 @@ if uploaded_file is not None:
         st.pyplot(fig)
 
         # most common words
+        """
         most_common_df = helper.most_common_words(selected_user,df)
 
         fig,ax = plt.subplots()
@@ -113,7 +114,7 @@ if uploaded_file is not None:
 
         st.title('Most commmon words')
         st.pyplot(fig)
-
+"""
         # emoji analysis
         """
         emoji_df = helper.emoji_helper(selected_user,df)
